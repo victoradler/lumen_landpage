@@ -21,7 +21,7 @@ export const Header = () => {
       <div className={`nav-elements ${showMenu && 'active'}`}>
         <ul>
           <li>
-            <NavLink to="/">Inicio</NavLink>
+            <NavLink to="/lumen_landpage">Inicio</NavLink>
           </li>
           <li>
             <NavLink to="/projetos">Projetos</NavLink>

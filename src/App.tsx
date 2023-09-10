@@ -14,7 +14,7 @@ function App() {
       <Header />
       <main className="content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/lumen_landpage" element={<Home />} />
           <Route path="/projetos" element={<Projetos />} />
           <Route path="/transparencia" element={<Transparencia />} />
           <Route path="/contact" element={<QueroSer />} />
