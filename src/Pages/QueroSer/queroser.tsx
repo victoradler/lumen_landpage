@@ -1,4 +1,3 @@
-import React from "react";
 import "./queroser.scss";
 import { Doacao } from "../../Components/CardsDoacao/cardsDoacao";
 import turma from "../../../public/images/turma.png";

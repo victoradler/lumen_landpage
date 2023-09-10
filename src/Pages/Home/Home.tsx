@@ -1,4 +1,3 @@
-import React from "react";
 import Boy from "../../../public/images/boy.png";
 import "./Home.scss";
 import { CardLumen } from "../../Components/Card/card";

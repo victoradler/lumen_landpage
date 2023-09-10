@@ -1,4 +1,3 @@
-import React from "react";
 import "./Projetos.scss";
 import bale from "../../../public/images/bale.png";
 import { Doacao } from "../../Components/CardsDoacao/cardsDoacao";

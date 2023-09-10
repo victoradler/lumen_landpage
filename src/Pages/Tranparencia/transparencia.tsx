@@ -1,4 +1,3 @@
-import React from "react";
 import "./transparencia.scss";
 import { Doacao } from "../../Components/CardsDoacao/cardsDoacao";
 import projeto from "../../../public/images/social.png";
